@@ -1,0 +1,46 @@
+h1{
+    text-align: center
+}
+body{
+    background-color: skyblue;
+}
+h1{
+    background-color: rgba(10, 25, 228, 0.739);
+    color: cyan;
+}
+button{
+background-color: green;
+color: white;
+border:none;
+border-radius:10px;
+padding:10px;
+
+}
+form{
+width: 250px;
+margin:0 auto;
+}
+ul{
+    list-style: none;
+    margin: 30;
+    padding: 30;
+    background-color: rgb(19, 12, 117);
+    overflow: hidden;
+}
+li{
+    display: inline;
+}
+li a{
+    color: rgb(212, 26, 26);
+    text-decoration: none;        
+    display: inline;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
